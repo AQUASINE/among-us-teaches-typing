@@ -1,19 +1,6 @@
-# TA-TODO: Put your application name here.
-# This should be a just a name i.e MyFirstGBAProgram
-# No SPACES AFTER THE NAME.
-PROGNAME = App
+PROGNAME = AmongUsTeachesTyping
 
-# TA-TODO: Add the C files you want compiled here (replace extension with .o)
-# Here you must put a list of all of the object files
-# that will be compiled into your program. For example
-# if you have main.c and myLib.c then in the following
-# line you would put main.o and myLib.o
 OFILES = gba.o font.o main.o images/accuracy.o images/amongusbg.o images/crewmatedie.o images/crewmatess.o images/ejectedcrewmate.o images/finger.o images/jermasus.o images/losescreen.o images/speechbubble.o images/titlescreen.o images/winscreen.o images/wpm.o
-
-################################################################################
-# These are various settings used to make the GBA toolchain work
-# DO NOT EDIT BELOW.
-################################################################################
 
 .PHONY: all
 all: CFLAGS += $(CRELEASE) -I../shared
@@ -21,7 +8,7 @@ all: LDFLAGS += $(LDRELEASE)
 all: $(PROGNAME).gba
 	@echo "[FINISH] Created $(PROGNAME).gba"
 
-include ./cs2110-tools/GBAVariables.mak
+include ./tools/GBAVariables.mak
 
 LDFLAGS += --specs=nosys.specs
 
