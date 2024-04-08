@@ -9,7 +9,7 @@ Use the [D-Pad] to move your pointer and [A] to do your tasks (press keys), spel
 
 #### Note:
 
-We couldn't figure out how to get the main theme to fit in memory without making it sound completely different. In fact, we couldn't figure out how to incorporate audio at all. To amend this and enjoy the full experience, please loop the "maintheme" audio found below or in the main repo. Thank you. 
+We couldn't figure out how to get the main theme to fit in memory without making it sound completely different. In fact, we couldn't figure out how to incorporate audio at all. To amend this and enjoy the full experience, please right click the "maintheme" audio below and click loop, or download the maintheme.ogg audio from the repo and loop it yourself. Thank you. 
 
 https://github.com/AQUASINE/among-us-teaches-typing/assets/42610534/0e2abce2-8c46-4776-a84e-bab1984785a5
 
