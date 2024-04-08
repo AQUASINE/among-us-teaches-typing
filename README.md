@@ -3,9 +3,9 @@
 
 Your favorite social deduction game, reimagined as a way to learn touch typing for the Game Boy Advance.
 
-![image](https://github.com/AQUASINE/among-us-teaches-typing/assets/42610534/638844bd-b049-49f6-a316-929faf8f9425)
-
 Use the [D-Pad] to move your pointer and [A] to do your tasks (press keys), spelling out the words that Red gives you. But are you an impostor when it comes to knowing the home row? Find out in Among Us Teaches Typing!   
+
+![image](https://github.com/AQUASINE/among-us-teaches-typing/assets/42610534/638844bd-b049-49f6-a316-929faf8f9425)
 
 #### Note:
 
